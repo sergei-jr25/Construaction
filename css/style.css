@@ -790,6 +790,7 @@ h6 {
     padding: 3.75rem 0.9375rem;
     overflow: auto;
     left: -120%;
+    z-index: 4;
     transition: left 0.3s ease 0s;
   }
   .menu__body::after {
